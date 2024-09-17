@@ -3,9 +3,9 @@
 //suma de los valores deberá entonces ser calculada. 
 
 using System;
-class Program
+public class SimulacionDados
 {
-    static void Main()
+   public static void Main()
     {
         Random aleatorio = new Random();
         int[] sumas = new int[13]; // Arreglo para contar las sumas de 2 a 12
